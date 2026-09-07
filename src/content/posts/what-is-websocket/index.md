@@ -1,5 +1,6 @@
 ---
 title: "WebSocket とは"
+published: 2026-09-07
 draft: true
 ---
 
