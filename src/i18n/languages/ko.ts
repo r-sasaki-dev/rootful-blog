@@ -37,4 +37,5 @@ export const ko: Translation = {
 	[Key.license]: "라이선스",
 
 	[Key.privacyPolicy]: "개인정보처리방침",
+	[Key.contact]: "문의하기",
 };

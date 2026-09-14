@@ -37,4 +37,5 @@ export const vi: Translation = {
 	[Key.license]: "Giấy phép bản quyền",
 
 	[Key.privacyPolicy]: "Chính sách bảo mật",
+	[Key.contact]: "Liên hệ",
 };

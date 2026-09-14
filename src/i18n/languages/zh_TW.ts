@@ -37,4 +37,5 @@ export const zh_TW: Translation = {
 	[Key.license]: "許可協議",
 
 	[Key.privacyPolicy]: "隱私政策",
+	[Key.contact]: "聯絡我們",
 };

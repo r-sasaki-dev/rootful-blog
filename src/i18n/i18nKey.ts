@@ -34,6 +34,7 @@ enum I18nKey {
 	license = "license",
 
 	privacyPolicy = "privacyPolicy",
+	contact = "contact",
 }
 
 export default I18nKey;
