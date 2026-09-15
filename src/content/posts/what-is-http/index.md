@@ -8,20 +8,13 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [HTTPって何...？](#1)
+- [HTTPって何...？](#httphypertexttransferprotocolとは)
 
-- [HTTPを理解するには何を勉強すればいいの？](#1-1)
+- [HTTPを理解するには何を勉強すればいいの？](#httpの全体像)
 
-- [HTTPとHTTPSの違いは？](#7)
-
-\[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
+- [HTTPとHTTPSの違いは？](#httpとhttpshypertest-transfer-protocol-secure)
 
 こんな悩みを解決できます！
-
-営業職から会社員WEBエンジニア、  
-その後フリーランスWEBエンジニアに転向した自分が解説します。
-
-\[/st-kaiwa2\]
 
 この記事ではHTTPとは何か、HTTPの仕組みなどを初心者にもわかりやすく解説します！
 
@@ -156,7 +149,7 @@ Content-Type: text/html; charset=UTF-8
 
 リクエスト・レスポンスについての詳しい解説はこちらの記事でしています。
 
-\[st-postgroup html\_class="" id="832" rank="0"\]
+[HTTPリクエスト・レスポンスとは？仕組みをわかりやすく解説](/posts/what-is-http-request-response/)
 
 ## HTTPメソッド
 
@@ -174,7 +167,7 @@ HTTPメソッドとはリクエストの種類を表します。
 
 主に使われるメソッドは`GET`と`POST`の2種類ですが、全て含めると9種類あり、それぞれの詳しい内容を知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="779" rank="0"\]
+[HTTPメソッドとは？各メソッドについて図解付きでわかりやすく解説](/posts/what-is-http-method/)
 
 ## ステータスコード
 
@@ -202,7 +195,7 @@ HTTPメソッドとはリクエストの種類を表します。
 
 それぞれのステータスコードの詳しい解説はこちらの記事でしています。
 
-\[st-postgroup html\_class="" id="740" rank="0"\]
+[HTTPステータスコードとは？意味と確認方法をわかりやすく解説](/posts/what-is-http-status-code/)
 
 ## Cookie
 
@@ -228,7 +221,7 @@ Cookieを使うとサーバーから受け取った情報をブラウザに保�
 
 Cookieについての詳しい説明はこちらの記事でしています。
 
-\[st-postgroup html\_class="" id="872" rank="0"\]
+[HTTP Cookieとは？用途や確認方法含めわかりやすく解説！](/posts/what-is-http-cookie/)
 
 ## HTTPとHTTPS（HyperTest Transfer Protocol Secure）
 

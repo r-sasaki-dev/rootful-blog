@@ -8,11 +8,11 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [MACアドレスって何...？](https://rootful.net/internet/mac-address#1)
+- [MACアドレスって何...？](#macアドレスとは)
 
-- [MACアドレスは何に使われるの？](https://rootful.net/internet/mac-address#3)
+- [MACアドレスは何に使われるの？](#macアドレスの用途)
 
-- [MACアドレスはどうやって調べたらいい？](#4)
+- [MACアドレスはどうやって調べたらいい？](#macアドレスの確認方法)
 
 ネットワークの基礎として重要な『MACアドレス』。
 
@@ -80,7 +80,7 @@ IPアドレスは
 
 IPアドレスについて詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="601" rank="0"\]
+[IPアドレスとは？IPv4・IPv6の仕組みをわかりやすく解説！](/posts/what-is-ip-address/)
 
 IPアドレスもMACアドレスと同じく、データをやり取りする相手を特定するために使われます。
 
