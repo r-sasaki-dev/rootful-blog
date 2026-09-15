@@ -8,9 +8,9 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [ポート番号って何...？](https://rootful.net/what-is-port-number#1)
+- [ポート番号って何...？](#ポート番号とは)
 
-- [ポート番号はどうやって使われるの？](https://rootful.net/what-is-port-number#3)
+- [ポート番号はどうやって使われるの？](#ポート番号を使った通信の流れ)
 
 インターネットを使う上で欠かせない要素のひとつが『ポート番号』です。
 
@@ -34,7 +34,7 @@ draft: false
 
 IPアドレスについて詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="601" rank="0"\]
+[IPアドレスとは？IPv4・IPv6の仕組みをわかりやすく解説！](/posts/what-is-ip-address/)
 
 ## ポート番号の種類
 

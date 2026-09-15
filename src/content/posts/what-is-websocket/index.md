@@ -12,14 +12,10 @@ draft: true
 
 - ws・wssって見たことあるけど何？
 
-\[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
-
 こんな悩みを解決できます！
 
 ライブストリーミングやIoTなど、リアルタイム性の高いアプリケーションを開発するためにWebSocketは欠かせません。  
 この記事ではWebSocketとは何か？WebSocketの特徴など初心者にわかりやすく解説します！
-
-\[/st-kaiwa2\]
 
 ## WebSocketとは？
 
@@ -51,7 +47,7 @@ WebSocketを使用することでクライアント・サーバー間の通信�
 
 HTTPについてはこちらの記事で解説しています。
 
-\[st-postgroup html\_class="" id="929" rank="0"\]
+[HTTPとは？仕組み、HTTPSとの違いについてわかりやすく解説](/posts/what-is-http/)
 
 ## WebSocketの特徴
 
@@ -113,7 +109,7 @@ WebSocketにおける通信の流れは下記になります。
 
 リクエスト・レスポンスって何？という方はこちらの記事を先に読むことをお勧めします。
 
-\[st-postgroup html\_class="" id="832" rank="0"\]
+[HTTPリクエスト・レスポンスとは？仕組みをわかりやすく解説](/posts/what-is-http-request-response/)
 
 #### リクエスト
 
@@ -176,7 +172,7 @@ Sec-WebSocket-Accept: 7eQChgCtQMnVILefJAO6dK5JwPc=
 
 ステータスコードについてはこちらの記事で解説しています。
 
-\[st-postgroup html\_class="" id="740" rank="0"\]
+[HTTPステータスコードとは？意味と確認方法をわかりやすく解説](/posts/what-is-http-status-code/)
 
 ### データ送受信
 

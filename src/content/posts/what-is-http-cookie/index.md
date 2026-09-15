@@ -8,20 +8,13 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [Cookieってよく聞くけど何かよくわからない...](#1)
+- [Cookieってよく聞くけど何かよくわからない...](#cookieとは)
 
-- [Cookieって何に使われるの？](#4)
+- [Cookieって何に使われるの？](#cookieの用途)
 
-- [Cookieの確認方法が知りたい](#6)
-
-\[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
+- [Cookieの確認方法が知りたい](#cookieの確認方法)
 
 こんな悩みを解決できます！
-
-営業職から会社員WEBエンジニア、  
-その後フリーランスWEBエンジニアに転向した自分が解説します。
-
-\[/st-kaiwa2\]
 
 この記事ではCookieとは何かの説明から始まり、用途や確認方法まで初心者にもわかりやすく解説します。
 
@@ -86,7 +79,7 @@ Cookieを使うことで「サイトにログインした」「〇〇のサイ�
 
 リクエスト・レスポンス、ヘッダなどについて詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="832" rank="0"\]
+[HTTPリクエスト・レスポンスとは？仕組みをわかりやすく解説](/posts/what-is-http-request-response/)
 
 ## Cookieの中身
 
@@ -187,7 +180,7 @@ Cookieには大きく分けて2種類あります。
 
 ドメインについて詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="617" rank="0"\]
+[ドメイン名とは？構造やDNSについて初心者にもわかりやすく解説！](/posts/what-is-domain-name/)
 
 ## Cookieの確認方法
 
