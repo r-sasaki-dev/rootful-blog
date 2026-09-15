@@ -12,14 +12,10 @@ draft: true
 
 - ws・wssって見たことあるけど何？
 
-\[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
-
 こんな悩みを解決できます！
 
 ライブストリーミングやIoTなど、リアルタイム性の高いアプリケーションを開発するためにWebSocketは欠かせません。  
 この記事ではWebSocketとは何か？WebSocketの特徴など初心者にわかりやすく解説します！
-
-\[/st-kaiwa2\]
 
 ## WebSocketとは？
 

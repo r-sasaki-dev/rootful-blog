@@ -14,14 +14,7 @@ draft: false
 
 - [セッションとCookieってどういう関係？](#cookie)
 
-\[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
-
 こんな悩みを解決できます！
-
-営業職から会社員WEBエンジニア、  
-その後フリーランスWEBエンジニアに転向した自分が解説します。
-
-\[/st-kaiwa2\]
 
 この記事ではセッションとは何か、その仕組みなどについて初心者向けにわかりやすく解説します！
 

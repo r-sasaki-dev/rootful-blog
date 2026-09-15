@@ -14,14 +14,7 @@ draft: false
 
 - [自分のIPアドレスを確認する方法を知りたい](#ipアドレスの調べ方)
 
-\[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
-
 こんな悩みを解決できます！
-
-営業職から会社員WEBエンジニア、  
-その後フリーランスWEBエンジニアに転向した自分が解説します。
-
-\[/st-kaiwa2\]
 
 ## IPアドレスとは？
 
