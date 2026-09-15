@@ -8,11 +8,11 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [IPアドレスが何なのかわからない...](https://rootful.net/what-is-ip-address#1)
+- [IPアドレスが何なのかわからない...](#ipアドレスとは)
 
-- [IPv4、IPv6って何？](https://rootful.net/what-is-ip-address#2)
+- [IPv4、IPv6って何？](#ipアドレスの構造)
 
-- [自分のIPアドレスを確認する方法を知りたい](#5)
+- [自分のIPアドレスを確認する方法を知りたい](#ipアドレスの調べ方)
 
 \[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
 

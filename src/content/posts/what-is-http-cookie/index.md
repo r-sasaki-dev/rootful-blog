@@ -8,11 +8,11 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [Cookieってよく聞くけど何かよくわからない...](#1)
+- [Cookieってよく聞くけど何かよくわからない...](#cookieとは)
 
-- [Cookieって何に使われるの？](#4)
+- [Cookieって何に使われるの？](#cookieの用途)
 
-- [Cookieの確認方法が知りたい](#6)
+- [Cookieの確認方法が知りたい](#cookieの確認方法)
 
 \[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
 

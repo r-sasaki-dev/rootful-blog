@@ -8,9 +8,9 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [HTTPメソッドって何？](#1)
+- [HTTPメソッドって何？](#httpメソッドとは)
 
-- [各メソッドの使い道がわからない...](#4)
+- [各メソッドの使い道がわからない...](#各メソッドの説明)
 
 \[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
 

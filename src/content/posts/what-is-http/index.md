@@ -8,11 +8,11 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [HTTPって何...？](#1)
+- [HTTPって何...？](#httphypertexttransferprotocolとは)
 
-- [HTTPを理解するには何を勉強すればいいの？](#1-1)
+- [HTTPを理解するには何を勉強すればいいの？](#httpの全体像)
 
-- [HTTPとHTTPSの違いは？](#7)
+- [HTTPとHTTPSの違いは？](#httpとhttpshypertest-transfer-protocol-secure)
 
 \[st-kaiwa2 html\_class="wp-block-st-blocks-st-kaiwa"\]
 

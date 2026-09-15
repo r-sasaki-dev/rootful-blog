@@ -8,11 +8,11 @@ draft: false
 
 この記事で解決できるお悩み
 
-- [MACアドレスって何...？](https://rootful.net/internet/mac-address#1)
+- [MACアドレスって何...？](#macアドレスとは)
 
-- [MACアドレスは何に使われるの？](https://rootful.net/internet/mac-address#3)
+- [MACアドレスは何に使われるの？](#macアドレスの用途)
 
-- [MACアドレスはどうやって調べたらいい？](#4)
+- [MACアドレスはどうやって調べたらいい？](#macアドレスの確認方法)
 
 ネットワークの基礎として重要な『MACアドレス』。
 
