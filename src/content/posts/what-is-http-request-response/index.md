@@ -98,7 +98,7 @@ key1=value1&key2=value2
 
 メソッドについてより詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="779" rank="0"\]
+[HTTPメソッドとは？各メソッドについて図解付きでわかりやすく解説](/posts/what-is-http-method/)
 
 ### ②リクエストURI
 
@@ -197,7 +197,7 @@ Content-Type: text/html; charset=UTF-8
 
 ステータスコードについて、詳しくはこちらの記事で解説しています。
 
-\[st-postgroup html\_class="" id="740" rank="0"\]
+[HTTPステータスコードとは？意味と確認方法をわかりやすく解説](/posts/what-is-http-status-code/)
 
 ### ③ヘッダ
 

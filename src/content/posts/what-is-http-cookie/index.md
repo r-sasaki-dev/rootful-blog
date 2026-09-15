@@ -79,7 +79,7 @@ Cookieを使うことで「サイトにログインした」「〇〇のサイ�
 
 リクエスト・レスポンス、ヘッダなどについて詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="832" rank="0"\]
+[HTTPリクエスト・レスポンスとは？仕組みをわかりやすく解説](/posts/what-is-http-request-response/)
 
 ## Cookieの中身
 
@@ -180,7 +180,7 @@ Cookieには大きく分けて2種類あります。
 
 ドメインについて詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="617" rank="0"\]
+[ドメイン名とは？構造やDNSについて初心者にもわかりやすく解説！](/posts/what-is-domain-name/)
 
 ## Cookieの確認方法
 

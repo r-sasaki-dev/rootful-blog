@@ -28,7 +28,7 @@ draft: false
 
 「そもそも正規表現ってなんなのかよくわからないよ！」という方は先に以下の記事を読んでみてください。
 
-\[st-postgroup html\_class="" id="450" rank="0"\]
+[正規表現とは何か？正規表現の使い方・書き方をわかりやすく解説](/posts/what-is-regex/)
 
 ## 量指定子の一覧
 
@@ -56,7 +56,9 @@ draft: false
 
 詳しい使い方やその他の正規表現チェッカーについては以下の記事で解説しています。
 
-\[st-postgroup html\_class="" id="301" rank="0"\]
+- [【厳選】JavaScript用正規表現チェッカーおすすめ4選](/posts/regex-checker-javascript/)
+- [【厳選】PHP用正規表現チェッカーおすすめ3選](/posts/regex-checker-php/)
+- [【厳選】Python用正規表現チェッカーおすすめ3選](/posts/regex-checker-python/)
 
 ### ?（疑問符）
 
@@ -218,7 +220,7 @@ draft: false
 
 正規表現における括弧の使い方について詳しく知りたい方はこちらの記事も読んでみてください。
 
-\[st-postgroup html\_class="" id="481" rank="0"\]
+[正規表現の括弧を使ったグループ化・キャプチャについて徹底解説](/posts/regex-parentheses/)
 
 ## 最長一致・最短一致とは
 

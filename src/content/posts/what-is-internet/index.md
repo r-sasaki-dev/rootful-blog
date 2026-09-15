@@ -159,7 +159,7 @@ IPアドレスとはコンピュータの住所を表す数値です。
 
 コンピュータへのIPアドレスの割り当てや、IPアドレスを見て送り先を特定するなどの処理は『[TCP/IPプロトコル](#tcpipプロトコル)』のインターネット層にあたります。
 
-\[st-postgroup html\_class="" id="601" rank="0"\]
+[IPアドレスとは？IPv4・IPv6の仕組みをわかりやすく解説！](/posts/what-is-ip-address/)
 
 ### ドメイン名
 
@@ -181,7 +181,7 @@ example.com
 
 例えばブラウザで `https://example.com/index.html`にアクセスすると、ルーターなどの機器が「`example.com`に対応するIPアドレスは...これだ！」といった感じで相手のコンピュータの住所を特定してくれます。
 
-\[st-postgroup html\_class="" id="617" rank="0"\]
+[ドメイン名とは？構造やDNSについて初心者にもわかりやすく解説！](/posts/what-is-domain-name/)
 
 ## まとめ
 

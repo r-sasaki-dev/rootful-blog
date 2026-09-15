@@ -34,7 +34,7 @@ draft: false
 
 IPアドレスについて詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="601" rank="0"\]
+[IPアドレスとは？IPv4・IPv6の仕組みをわかりやすく解説！](/posts/what-is-ip-address/)
 
 ## ポート番号の種類
 

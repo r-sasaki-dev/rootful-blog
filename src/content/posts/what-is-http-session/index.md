@@ -88,7 +88,7 @@ Cookieはログインした時などにサーバーからクライアントに�
 
 Cookieについてより詳しく知りたい方はこちらの記事がおすすめです。
 
-\[st-postgroup html\_class="" id="872" rank="0"\]
+[HTTP Cookieとは？用途や確認方法含めわかりやすく解説！](/posts/what-is-http-cookie/)
 
 ## セッションの仕組み
 
@@ -113,7 +113,7 @@ Cookieについてより詳しく知りたい方はこちらの記事がおす�
 ヘッダとはリクエスト・レスポンスに付与できる追加情報のようなものです。  
 詳しくは以下の記事で解説しています。
 
-\[st-postgroup html\_class="" id="832" rank="0"\]
+[HTTPリクエスト・レスポンスとは？仕組みをわかりやすく解説](/posts/what-is-http-request-response/)
 
 ### 2回目アクセス
 
