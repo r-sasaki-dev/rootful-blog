@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "",
 	lang: "ja", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
-		hue: 90, // Brand color #A6F15D converted to hue (≈90.4°, rounded)
+		hue: 150,
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
